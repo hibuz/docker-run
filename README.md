@@ -11,4 +11,6 @@ Run any container applications anywhere with Docker
 - 📦 [Operating Systems](OperatingSystems)
   - [Ubuntu](OperatingSystems/ubuntu)
 - 📦 [Database](Database)
-  - [Mysql](Database/mysql)
+  - [MySQL](Database/mysql)
+  - [MariaDB](Database/mariadb)
+ 
