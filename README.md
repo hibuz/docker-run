@@ -15,4 +15,6 @@ Run any container applications anywhere with Docker
   - [MariaDB](Database/mariadb)
 - 📦 [Software Development](SoftwareDevelopment)
   - [Jenkins](SoftwareDevelopment/jenkins)
+- 📦 [Messaging](Messaging)
+  - [RabbitMQ](Messaging/rabbitmq)
  
