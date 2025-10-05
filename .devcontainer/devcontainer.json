@@ -10,7 +10,10 @@
         ],
         "settings": {
           "locale": "en"
-        }
+        },
+        "forwardPorts": [
+            8989
+        ]
       }
     }
 }
