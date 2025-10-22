@@ -14,8 +14,10 @@ Run any container applications anywhere with Docker
   - [MySQL](Database/mysql)
   - [MariaDB](Database/mariadb)
   - [PostgreSQL](Database/postgresql)
+  - [Elasticsearch](Database/elasticsearch)
 - 📦 [Software Development](SoftwareDevelopment)
   - [Jenkins](SoftwareDevelopment/jenkins)
 - 📦 [Messaging](Messaging)
   - [RabbitMQ](Messaging/rabbitmq)
+  - [Kafka](Messaging/kafka)
  
